@@ -1,5 +1,3 @@
-![image alt](https://github.com/Dunithnadupa/Walmart-Data-Analysis/blob/0e3b1d3a9bca53900cd91b9a6bb43f60a8fcdc7e/Walmart%20Project%20Pipline%20image.png)
-
 # 📊 Walmart Data Analysis Project
 
 ## 🚀 Overview
@@ -7,6 +5,8 @@
 This project is an **end-to-end data analysis solution** designed to extract meaningful business insights from Walmart sales data. It demonstrates the complete workflow of a data analyst — from data collection to cleaning, transformation, and advanced SQL-based analysis.
 
 The project focuses on solving **real-world business problems** using **Python and SQL**, making it ideal for showcasing practical data analytics skills.
+
+![image alt](https://github.com/Dunithnadupa/Walmart-Data-Analysis/blob/0e3b1d3a9bca53900cd91b9a6bb43f60a8fcdc7e/Walmart%20Project%20Pipline%20image.png)
 
 ---
 
