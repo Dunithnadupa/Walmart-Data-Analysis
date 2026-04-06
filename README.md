@@ -64,7 +64,6 @@ The project focuses on solving **real-world business problems** using **Python a
 * Loaded cleaned data into:
 
   * MySQL
-  * PostgreSQL
 * Automated table creation using SQLAlchemy
 
 ### 7️⃣ SQL Analysis
@@ -97,7 +96,6 @@ Walmart-Data-Analysis/
 ├── sql_queries/         # SQL scripts for analysis
 ├── notebooks/           # Jupyter notebooks
 ├── main.py              # Data processing script
-├── requirements.txt     # Dependencies
 └── README.md            # Project documentation
 ```
 
