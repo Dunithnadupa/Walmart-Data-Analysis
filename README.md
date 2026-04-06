@@ -1,3 +1,5 @@
+![image alt](https://github.com/Dunithnadupa/Walmart-Data-Analysis/blob/0e3b1d3a9bca53900cd91b9a6bb43f60a8fcdc7e/Walmart%20Project%20Pipline%20image.png)
+
 # 📊 Walmart Data Analysis Project
 
 ## 🚀 Overview
