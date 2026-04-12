@@ -138,12 +138,6 @@ kaggle datasets download -d <dataset-path>
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 🙌 Acknowledgments
 
 * Dataset: Kaggle Walmart Sales Dataset
